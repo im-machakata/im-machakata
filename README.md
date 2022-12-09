@@ -1,7 +1,10 @@
 # Hello there!
 
-My name is Isaac. I am a **self taught**, aspiring software engineer. I spend most of my time **programming** in PHP, JS, VB, C & C++ and **coding** in mostly HTML & MD. I enjoy **learning how things work** and using that to my advantage to **create** new things from that. Please feel free to get in touch with me if you need my assistance.
+My name is Isaac. I am a **self taught**, aspiring software engineer. I spend most of my time **programming** in PHP, JS, VB, C & C++ and **coding** in mostly HTML & MD. I am a very curious person and enjoy **learning how things (programs included) work** and using that to my advantage to **create** new things(you know what I mean) from that. Please feel free to get in touch with me if you need my assistance.
 
-## Social Media
-You can connect with me on [![whatsapp](https://img.shields.io/badge/Whatsapp-zw?style=for-the-badge&logo=whatsApp&logoColor=white)](//wa.me/263782192384)
-[![alt](https://img.shields.io/badge/Instagram-yellow?style=for-the-badge&logo=twitter&logoColor=white)](//instagram.com/immachakata)
+## Let's be friends
+
+[![whatsapp](https://img.shields.io/badge/Whatsapp-original?style=for-the-badge&logo=whatsApp&logoColor=white)](//wa.me/263782192384)
+[![instagram](https://img.shields.io/badge/Instagram-yellow?style=for-the-badge&logo=twitter&logoColor=white)](//instagram.com/immachakata)
+[![twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](//twitter.com/immachakata)
+[![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](//zw.linkedin.com/immachakata)
