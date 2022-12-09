@@ -1,6 +1,6 @@
 # Hello there!
 
-My name is Isaac. I am a **self taught**, aspiring software engineer. I spend most of my time **programming** in PHP, JS, VB, C & C++ and **coding** in mostly HTML & MD. I am a very curious person and enjoy **learning how things (programs included) work** and using that to my advantage to **create** new things(you know what I mean) from that. Please feel free to get in touch with me if you need my assistance.
+My name is Isaac. I am a **self taught**, aspiring software engineer. I spend most of my time **programming** in PHP, JS, VB, C & C++ (**+** some experience with MySQL) and **coding** in mostly HTML & MD. I am a very curious person and enjoy **learning** how things (programs included) work and using that to my advantage to **create** new **programs** from that. Please feel free to get in touch with me if you need my assistance.
 
 ## Let's connect
 
