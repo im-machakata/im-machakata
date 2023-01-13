@@ -1,6 +1,6 @@
 # Hello world
 
-I'm Isaac Machakata, a **self taught**, aspiring software engineer. I spend most of my time **programming** in PHP, JS, VB, C, C++ and Shell & Batch scripts (with some experience with MySQL) and **coding** in mostly HTML & MD. I am a very curious person who enjoys **learning** how things work (programs included) and using the knowledge to **make** something new. Please feel free to get in touch with me if you need my assistance.
+I'm Isaac Machakata, a **self taught**, aspiring software engineer. I spend most of my time **programming** in PHP, JS, VB, C, C++, Shell & Batch (with some experience with MySQL) and **coding** in mostly HTML & MD. I am a very curious person who enjoys **learning** how things work (programs included) and using the knowledge to **make** something new. Please feel free to get in touch with me if you need my assistance.
 
 ## Let's connect
 
