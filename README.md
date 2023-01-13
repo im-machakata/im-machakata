@@ -8,6 +8,6 @@ I'm Isaac Machakata, a **self taught**, aspiring software engineer. I spend most
 [![instagram](https://img.shields.io/badge/Instagram-yellow?style=for-the-badge&logo=twitter&logoColor=white)](//instagram.com/immachakata)
 [![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](//zw.linkedin.com/in/immachakata)
 
-## Page views
+## Profile views
 
 ![count](https://profile-counter.glitch.me/im-machakata/count.svg)
