@@ -1,6 +1,8 @@
-# Hello world
+# README
 
-I'm Isaac Machakata, a **self taught**, aspiring software engineer. I spend most of my time **programming** in PHP, JS, VB, C, C++, Shell & Batch (with some experience with MySQL) and **coding** in mostly HTML & MD. I am a very curious person who enjoys **learning** how things work (programs included) and using the knowledge to **make** something new. Please feel free to get in touch with me if you need my assistance.
+[![committers.top badge](https://user-badge.committers.top/zimbabwe_private/im-machakata.svg)](im-machakata)
+
+I'm Isaac Machakata, a **self taught**, aspiring fullstack software engineer. I spend most of my time **programming** in PHP, JS, VB, C, C++, Shell & Batch (with some experience with MySQL) and **coding** in mostly HTML & MD. I am a very curious person who enjoys **learning** how things work (programs included) and using the knowledge to **make** something new. 
 
 ## Let's connect
 
