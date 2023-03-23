@@ -9,6 +9,7 @@ Experienced web developer, software engineer, graphic designer & music producer 
 ### Education
 
 - National Certificate in Information & Communication Technology, Masvingo Polytechnic 
+- CS50 Introduction to Computer Science, Harvard
 - Certified Cybersecurity Expert, CISCO Networking Academy 2023
 
 ### Work Experience
@@ -28,7 +29,7 @@ Experienced web developer, software engineer, graphic designer & music producer 
 - MySQL
 - Git, GitHub
 
-### Let's connect
+### Social Media Accounts
 
 [![whatsapp](https://img.shields.io/badge/Whatsapp-original?style=for-the-badge&logo=whatsApp&logoColor=white)](//wa.me/263782192384)
 [![instagram](https://img.shields.io/badge/Instagram-yellow?style=for-the-badge&logo=twitter&logoColor=white)](//instagram.com/immachakata)
