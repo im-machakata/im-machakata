@@ -10,7 +10,7 @@ Experienced web developer, software engineer, graphic designer & music producer 
 
 - National Certificate in Information & Communication Technology, Masvingo Polytechnic 
 - CS50 Introduction to Computer Science, Harvard
-- Certified Cybersecurity Expert, CISCO Networking Academy 2023
+- Certified in [Introduction to Cybersecurity](https://www.credly.com/badges/caedf06c-29df-43ba-a293-d7014663a385), CISCO Networking Academy 2023
 
 ### Work Experience
 
