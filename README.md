@@ -16,15 +16,13 @@ Experienced web developer, software engineer, graphic designer & music producer 
 
 #### Lead Software Engineer, Designer & Developer at [Caasi](//caasi.co.zw) Zimbabwe
 
-- Developed [CAIMS](//caims.caasi.co.zw) an online school management system using PHP, MySQL, VueJS
-- Developed of Caasi Portal using PHP, MySQL
 - Developed eConsult (2019) using PHP, MySQL, Java
+- Developing [CAIMS](//caims.caasi.co.zw) an online school management system using PHP, MySQL, VueJS
+- Developing of Caasi Portal using PHP, MySQL
 
-#### Lead Software Engineer, Designer, Cybersecurity & Developer, [Caasi](//caasi.co.zw) Zimbabwe
+#### Lead Software Engineer, Designer, Cybersecurity & Developer at [OATL](//oatl.co.zw)
 
-- Developed [CAIMS](//caims.caasi.co.zw) an online school management system using PHP, MySQL, VueJS
-- Developed of Caasi Portal using PHP, MySQL
-- Developed eConsult (2019) using PHP, MySQL, Java
+- Developed [OATL](//oatl.co.zw) an online elearning system using PHP, MySQL, VueJS
 
 ### Skills
 
@@ -34,8 +32,6 @@ Experienced web developer, software engineer, graphic designer & music producer 
 - MySQL
 - Git, GitHub
 
-### Social Media Accounts
+### Contact Details
 
-[![whatsapp](https://img.shields.io/badge/Whatsapp-original?style=for-the-badge&logo=whatsApp&logoColor=white)](//wa.me/263782192384)
-[![instagram](https://img.shields.io/badge/Instagram-yellow?style=for-the-badge&logo=twitter&logoColor=white)](//instagram.com/immachakata)
-[![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](//zw.linkedin.com/in/immachakata)
+[Whatsapp](//wa.me/263782192384) | [Instagram](//instagram.com/immachakata) | [LinkedIn](//zw.linkedin.com/in/immachakata)| [Twitter](//twitter.com/immachakata) | [Facebook](//facebook.com/munyaradzi.machakata) | [Phone](//tel:263782192384)
