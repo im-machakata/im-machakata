@@ -1,4 +1,4 @@
-# Isaac M. Machakata
+# ISAAC MUNYARADZI MACHAKATA
 
 ## Web Developer, Software Engineer, Graphic Designer, Music Producer
 
@@ -14,10 +14,15 @@ Experienced web developer, software engineer, graphic designer & music producer 
 
 ### Work Experience
 
-#### Lead Systems Engineer, Designer & Developer, [Caasi](//caasi.co.zw) Zimbabwe
+#### Lead Software Engineer, Designer & Developer at [Caasi](//caasi.co.zw) Zimbabwe
 
 - Developed [CAIMS](//caims.caasi.co.zw) an online school management system using PHP, MySQL, VueJS
-- Developed [OATL](//oatl.co.zw) an online e-learning system using PHP, MySQL
+- Developed of Caasi Portal using PHP, MySQL
+- Developed eConsult (2019) using PHP, MySQL, Java
+
+#### Lead Software Engineer, Designer, Cybersecurity & Developer, [Caasi](//caasi.co.zw) Zimbabwe
+
+- Developed [CAIMS](//caims.caasi.co.zw) an online school management system using PHP, MySQL, VueJS
 - Developed of Caasi Portal using PHP, MySQL
 - Developed eConsult (2019) using PHP, MySQL, Java
 
