@@ -14,20 +14,13 @@ Experienced web developer, software engineer, graphic designer & music producer 
 
 ### Work Experience
 
-#### [Caasi](//caasi.co.zw)
-
-##### Lead Software Engineer & Designer - 2019
+#### [Caasi](//caasi.co.zw) | Lead Software Engineer. Chief Technology Officer & Designer - 2019 to 2023
 
 - Developed eConsult (2019) using PHP, MySQL, Java
-
-##### Lead Developer, Chief Technology Officer - 2022 to 2023
-
-- Developed [CAIMS](//caims.caasi.co.zw) (for [Ndarama High](//app.ndaramahigh.co.zw)) an online school management system using PHP (CodeIgniter 4), MySQL, VueJS 3
+- Developed [CAIMS](//caims.caasi.co.zw) (currently used at [Ndarama High School](//app.ndaramahigh.co.zw)) an online school management system using PHP (CodeIgniter 4), MySQL, VueJS 3
 - Developing of Caasi Portal using PHP (CodeIgniter), MySQL
 
-#### [OATL](//oatl.co.zw)
-
-##### Lead Software Engineer, Designer, Cybersecurity & Developer
+#### [OATL](//oatl.co.zw) | Lead Software Engineer, Designer, Cybersecurity & Developer
 
 - Developed [OATL](//oatl.co.zw) an online elearning system using PHP, MySQL, VueJS
 
@@ -42,4 +35,4 @@ Experienced web developer, software engineer, graphic designer & music producer 
 
 ### Contact Details
 
-[Whatsapp](//wa.me/263782192384) | [Instagram](//instagram.com/immachakata) | [LinkedIn](//zw.linkedin.com/in/immachakata) | [Twitter](//twitter.com/immachakata) | [Facebook](//facebook.com/munyaradzi.machakata) | [Phone](//tel:263782192384)
+[Whatsapp](//wa.me/263782192384) | [Instagram](//instagram.com/immachakata) | [LinkedIn](//zw.linkedin.com/in/immachakata) | [Twitter](//twitter.com/immachakata) | [Facebook](//facebook.com/munyaradzi.machakata) | [Personal Number](//tel:263782192384) | [Business Number](//tel:263783243738)
