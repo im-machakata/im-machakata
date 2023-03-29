@@ -27,7 +27,7 @@ Experienced web developer, software engineer, graphic designer & music producer 
 ### Skills
 
 - [JavaScript](https://www.sololearn.com/certificates/CT-DNKF8IML), [React](https://www.sololearn.com/certificates/CT-KF4N9XJV), [JQuery](https://www.sololearn.com/certificates/CT-VWQ8GABZ), VueJS, TypeScript
-- Python, Flask, Flask
+- Python, Flask, Django
 - [C#](https://www.sololearn.com/certificates/CT-ASAK0QEN), C, [C++](https://www.sololearn.com/certificates/CT-CDDF2JZQ)
 - PHP, CodeIgniter 4
 - MySQL
