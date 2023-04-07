@@ -1,4 +1,4 @@
-# ISAAC MUNYARADZI MACHAKATA
+# ISAAC MACHAKATA
 
 ## Web Developer, Software Engineer, Graphic Designer, Music Producer
 
@@ -20,9 +20,13 @@ Experienced web developer, software engineer, graphic designer & music producer 
 - Developed [CAIMS](//caims.caasi.co.zw) (currently used at [Ndarama High School](//app.ndaramahigh.co.zw)) an online school management system using PHP (CodeIgniter 4), MySQL, VueJS 3
 - Developing of Caasi Portal using PHP (CodeIgniter), MySQL
 
+#### [Flayaz](//flayaz.co.zw) | Frontend Designer 2023
+
+- Helped in designing the system
+
 #### [OATL](//oatl.co.zw) | Lead Software Engineer, Designer, Cybersecurity & Developer
 
-- Developed [OATL](//oatl.co.zw) an online elearning system using PHP, MySQL, VueJS
+- Developing [OATL](//oatl.co.zw) an online elearning system using PHP, MySQL, VueJS
 
 ### Skills
 
