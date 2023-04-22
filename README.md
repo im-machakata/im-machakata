@@ -2,9 +2,7 @@
 
 ## Web Developer, Software Engineer, Graphic Designer, Music Producer
 
-### Summary
-
-Experienced web developer, software engineer, graphic designer & music producer with a passion for creating efficient and user friendly applications. Proficient in multpile programming languages, including [JavaScript](https://www.sololearn.com/certificates/CT-DNKF8IML), [Python](https://www.sololearn.com/certificates/CT-UDTT15XT), [JAVA](https://www.sololearn.com/certificates/CT-LCWMVMRZ), [PHP](https://www.sololearn.com/certificates/CT-C63OVVCF), [C#](https://www.sololearn.com/certificates/CT-ASAK0QEN), C, [C++](https://www.sololearn.com/certificates/CT-CDDF2JZQ), [SQL](https://www.sololearn.com/certificates/CT-MVFHFFMQ), [SQL Intermediate](https://www.sololearn.com/certificates/CC-YL0YMIPZ), & [Kotlin](https://www.sololearn.com/certificates/CT-79UGXNEQ). Skilled both in frontend & backend development with a keen eye for design and focus on delivering quality code.
+I am an experienced web developer, software engineer, graphic designer & music producer with a passion for creating efficient and user friendly applications. Proficient in multpile programming languages, including [JavaScript](https://www.sololearn.com/certificates/CT-DNKF8IML), [Python](https://www.sololearn.com/certificates/CT-UDTT15XT), [JAVA](https://www.sololearn.com/certificates/CT-LCWMVMRZ), [PHP](https://www.sololearn.com/certificates/CT-C63OVVCF), [C#](https://www.sololearn.com/certificates/CT-ASAK0QEN), C, [C++](https://www.sololearn.com/certificates/CT-CDDF2JZQ), [SQL](https://www.sololearn.com/certificates/CT-MVFHFFMQ), [SQL Intermediate](https://www.sololearn.com/certificates/CC-YL0YMIPZ), & [Kotlin](https://www.sololearn.com/certificates/CT-79UGXNEQ). Skilled both in frontend & backend development with a keen eye for design and focus on delivering quality code.
 
 ### Education
 
@@ -14,19 +12,45 @@ Experienced web developer, software engineer, graphic designer & music producer 
 
 ### Work Experience
 
-#### [Caasi](//caasi.co.zw) | Lead Software Engineer. Chief Technology Officer & Designer - 2019 to 2023
+<details>
+    <summary>
+    Caasi &ndash; 2019 to 2023 (<a href="//caasi.co.zw" target="_blank">view website</a>)
+    </summary>
 
-- Developed eConsult (2019) using PHP, MySQL, Java
-- Developed [CAIMS](//caims.caasi.co.zw) (currently used at [Ndarama High School](//app.ndaramahigh.co.zw)) an online school management system using PHP (CodeIgniter 4), MySQL, VueJS 3
-- Developing of Caasi Portal using PHP (CodeIgniter), MySQL
+Lead Software Engineer, Frontend Designer & Chief Technology Officer
+  
+Developed the eConsult Android App (2019) using PHP, MySQL & Java.
 
-#### [Flayaz](//flayaz.co.zw) | Frontend Designer 2023
+Developed [CAIMS](//caims.caasi.co.zw) (currently used at [Ndarama High School](//app.ndaramahigh.co.zw)) an online school management system using PHP (CodeIgniter 4), MySQL, VueJS 3.
 
-- Helped in designing the system
+Currently developing Caasi Portal using PHP (CodeIgniter), MySQL.
+</details>
 
-#### [OATL](//oatl.co.zw) | Lead Software Engineer, Designer, Cybersecurity & Developer
+---
 
-- Developing [OATL](//oatl.co.zw) an online elearning system using PHP, MySQL, VueJS
+<details>
+    <summary>
+    Flayaz &ndash; 2023 (<a href="//flayaz.co.zw/designer" target="_blank">view website</a>)
+    </summary>
+
+Frontend Designer
+
+Currently working on the **Flayaz** designer user interface.
+</details>
+
+---
+
+<details>
+    <summary>
+    OATL Library &ndash; 2020 - 2023 (<a href="//oatl.co.zw/designer" target="_blank">view website</a>)
+    </summary>
+
+Lead Developer, Designer & CTO
+
+Currently developing [OATL](//oatl.co.zw) an online elearning system using PHP, MySQL, VueJS
+</details>
+
+---
 
 ### Skills
 
