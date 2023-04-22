@@ -17,14 +17,14 @@ I am an experienced web developer, software engineer, graphic designer & music p
     Caasi &ndash; 2019 to 2023 (<a href="//caasi.co.zw" target="_blank">view website</a>)
     </summary>
 
-Lead Software Engineer, Frontend Designer & Chief Technology Officer
-  
 Developed the eConsult Android App (2019) using PHP, MySQL & Java.
 
-Developed [CAIMS](//caims.caasi.co.zw) (currently used at [Ndarama High School](//app.ndaramahigh.co.zw)) an online school management system using PHP (CodeIgniter 4), MySQL, VueJS 3.
+Developed [CAIMS](//caims.caasi.co.zw) (currently used at [Ndarama High School](//app.ndaramahigh.co.zw)) an online school management system using CodeIgniter 4, MySQL, VueJS 3.
 
 Currently developing Caasi Portal using PHP (CodeIgniter), MySQL.
 </details>
+
+Lead Software Engineer & Frontend Designer
 
 ---
 
@@ -33,10 +33,10 @@ Currently developing Caasi Portal using PHP (CodeIgniter), MySQL.
     Flayaz &ndash; 2023 (<a href="//flayaz.co.zw/designer" target="_blank">view website</a>)
     </summary>
 
-Frontend Designer
-
 Currently working on the **Flayaz** designer user interface.
 </details>
+
+#### Frontend Designer
 
 ---
 
@@ -45,10 +45,10 @@ Currently working on the **Flayaz** designer user interface.
     OATL Library &ndash; 2020 - 2023 (<a href="//oatl.co.zw/designer" target="_blank">view website</a>)
     </summary>
 
-Lead Developer, Designer & CTO
-
-Currently developing [OATL](//oatl.co.zw) an online elearning system using PHP, MySQL, VueJS
+Currently developing [OATL](//oatl.co.zw) an online elearning system using Django & VueJS
 </details>
+
+#### Lead Developer, Designer & Chief Technology Officer
 
 ---
 
