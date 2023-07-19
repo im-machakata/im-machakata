@@ -30,7 +30,7 @@ Lead Software Engineer & Frontend Designer
 
 <details>
     <summary>
-    Flayaz &ndash; 2023 (<a href="//flayaz.co.zw/designer" target="_blank">view website</a>)
+    Flayaz &ndash; 2023 (<a href="//beta.flayaz.co.zw/designer" target="_blank">view website</a>)
     </summary>
 
 Currently working on the **Flayaz** designer user interface.
