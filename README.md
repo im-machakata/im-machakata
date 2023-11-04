@@ -30,7 +30,7 @@ Lead Software Engineer & Frontend Designer
 
 <details>
     <summary>
-    Flayaz &ndash; 2023 (<a href="//beta.flayaz.co.zw/designer" target="_blank">view website</a>)
+    Flayaz &ndash; 2023 (<a href="//beta.flayaz.co.zw/" target="_blank">view website</a>)
     </summary>
 
 Currently working on the **Flayaz** designer user interface.
@@ -42,7 +42,7 @@ Currently working on the **Flayaz** designer user interface.
 
 <details>
     <summary>
-    OATL Library &ndash; 2020 - 2023 (<a href="//oatl.co.zw/designer" target="_blank">view website</a>)
+    OATL Library &ndash; 2020 - 2023 (<a href="//oatl.co.zw/" target="_blank">view website</a>)
     </summary>
 
 Currently developing [OATL](//oatl.co.zw) an online elearning system using Django & VueJS
